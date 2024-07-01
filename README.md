@@ -1,1 +1,1 @@
-# colab_-proj
+# Handwritten image classification
